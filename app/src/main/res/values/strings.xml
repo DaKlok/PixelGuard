@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PixelGuard</string>
+    <string name="accessibility_service_description">PixelGuard uses this service to detect when a locked application is opened, in order to display the lock screen.</string>
+</resources>
