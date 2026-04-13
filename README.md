@@ -1,0 +1,1 @@
+The base of this app was built by AI. The reason this app exists was to test the new "Android Studio ai template". which builds the app from scratch from a simple prompt. Ofc there was some editing needed fro the app to work, but for this reason it can't be uploaded and I don't recommend downloading it, if your looking for a good app locking app.
